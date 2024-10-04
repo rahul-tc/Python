@@ -17,3 +17,4 @@
 #wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
 #wap to create a billing system at supermarket.
 #Fourth Set
+# A = "Why Fit in, When you are Born to Stand out !"
