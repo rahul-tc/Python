@@ -7,6 +7,15 @@ print(Name)
 print(Age)
 print(Address)
 #wap to swap two variables.
+Vara = "rahul"
+Varb = "roushan"
+
+temp = Vara
+Vara = Varb
+Varb = temp
+
+print(Vara) 
+print(Varb)
 #wap to convert a float into integer.
 #wap to take details from a student for ID-Card and then print it in different Lines.
 #wap to take an user i/p as integer then convert it into Float.
