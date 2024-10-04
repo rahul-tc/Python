@@ -10,3 +10,4 @@
 #wap to create area calculator.
 #wap to check whether the passed letter is vowel or not.
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
+#Third Set
