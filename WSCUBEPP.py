@@ -1,5 +1,11 @@
 #First Set
 #Wap to display a Person name, age and address in 3 different lines.
+Name = input("Enter the name: ")
+Age = int(input("Enter the age: "))
+Address = input("Enter the address: ")
+print(Name)
+print(Age)
+print(Address)
 #wap to swap two variables.
 #wap to convert a float into integer.
 #wap to take details from a student for ID-Card and then print it in different Lines.
