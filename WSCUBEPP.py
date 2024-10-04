@@ -11,3 +11,8 @@
 #wap to check whether the passed letter is vowel or not.
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
 #Third Set
+#wap to find a sum of all the even number up to 50.
+#wap to write first 20 number and their squared number.
+#wap to find sum of first 10 odd numbers using while loop.
+#wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
+#wap to create a billing system at supermarket.
