@@ -18,3 +18,8 @@
 #wap to create a billing system at supermarket.
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
+#wap to find the length of the following string.
+#wap to check how many time alphabet o is occuring.
+#wap to convert the whole string into lower & upper Case.
+#wap to convert the following string into a title.
+#wap to find the index number of "Fit in".
