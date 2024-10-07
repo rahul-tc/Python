@@ -43,6 +43,45 @@ if user_input%2 == 0:
 else:
     print("Odd")
 #wap to create area calculator.
+def area_rectangle(length, width):
+    return length*width
+def area_triangle(base,height):
+    return 0.5*base*height
+def area_circle(radius):
+    import math
+    return math.pi*radius**2 #here pi*radius**2 means pir square
+def area_square(side):
+    return side*side
+
+def main():
+    print("Area Calculator")
+    print("1. Rectangle")
+    print("2. Triangle")
+    print("3. Circle")
+    print("4. Square")
+
+    choice = input("Choose a shape (1/2/3/4): ")
+
+    if choice == '1':
+        length = float(input("Enter the length of the rectangle: "))
+        width = float(input("Enter the width of the rectangle: "))
+        print("The area of the rectangle is: ", area_rectangle(length,width))
+
+    if choice == '2':
+        base = float(input("Enter the height of the triangle: "))
+        height = float(input("Enter the height of the triangle: "))
+        print("The area of the triangle is : ", area_triangle(base,height))
+
+    if choice == '3':
+        radius = float(input("Enter the radius of the circle : "))
+        print("The area of the circle is: ", area_circle(radius))
+
+    if choice == '4':
+        side = float(input('Enter the side of the square : '))
+        print("The area of the square is : ",area_square(side))
+
+if __name__ == "__main__":
+    main()
 #wap to check whether the passed letter is vowel or not.
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
 #Third Set
