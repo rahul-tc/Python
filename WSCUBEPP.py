@@ -20,6 +20,12 @@ print(Varb)
 Num = float(input("Enter the number : "))
 print(int(Num))
 #wap to take details from a student for ID-Card and then print it in different Lines.
+Name = input("Enter the Name : ")
+Batch = input("Enter the Batch : ")
+Roll = input("Enter the Roll : ")
+print(Name)
+print(Batch)
+print(Roll)
 #wap to take an user i/p as integer then convert it into Float.
 #second set
 #wap to check if a number is Positive.
