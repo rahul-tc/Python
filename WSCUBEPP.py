@@ -37,6 +37,11 @@ if user_input > 0:
 else:
     print("Negative")
 #wap to check whether a number is odd or even.
+user_input = int(input("Enter the number : "))
+if user_input%2 == 0:
+    print("Even")
+else:
+    print("Odd")
 #wap to create area calculator.
 #wap to check whether the passed letter is vowel or not.
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
