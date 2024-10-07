@@ -32,6 +32,11 @@ float_value = float(integer_value)
 print("The float value is:", float_value)
 #second set
 #wap to check if a number is Positive.
+user_input = int(input("Enter a Number : "))
+if user_input > 0:
+    print("Positive")
+else:
+    print("Negative")
 #wap to check whether a number is odd or even.
 #wap to create area calculator.
 #wap to check whether the passed letter is vowel or not.
