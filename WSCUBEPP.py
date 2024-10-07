@@ -83,6 +83,19 @@ def main():
 if __name__ == "__main__":
     main()
 #wap to check whether the passed letter is vowel or not.
+user_input = input("Enter the Alphabet : ")
+if user_input == "a":
+    print("Vowel")
+elif user_input == "e":
+    print("Vowel")
+elif user_input == "i":
+    print("Vowel")
+elif user_input == "o":
+    print("Vowel")
+elif user_input == "u":
+    print("Vowel")
+else:
+    print("Not Vowel")
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
 #Third Set
 #wap to find a sum of all the even number up to 50.
