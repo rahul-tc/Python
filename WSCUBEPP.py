@@ -17,6 +17,8 @@ Varb = temp
 print(Vara) 
 print(Varb)
 #wap to convert a float into integer.
+Num = float(input("Enter the number : "))
+print(int(Num))
 #wap to take details from a student for ID-Card and then print it in different Lines.
 #wap to take an user i/p as integer then convert it into Float.
 #second set
