@@ -126,6 +126,12 @@ result = sum_of_total_num(num)
 print(result)
 
 #wap to write first 20 number and their squared number.
+def print_square(limit):
+    for num in range(1, limit + 1):
+        square = num * num
+        print(f"The Number is {num} and the square is : {square} ")
+    
+print_square(20)
 #wap to find sum of first 10 odd numbers using while loop.
 #wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
 #wap to create a billing system at supermarket.
