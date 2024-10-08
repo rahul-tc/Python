@@ -97,7 +97,23 @@ elif user_input == "u":
 else:
     print("Not Vowel")
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
+def check_digit_count(number):
+    if number < 0:
+        number = -number #convert to positive for checking
+    if 0 <= number <10:
+        return "Single-Digit number"
+    elif 10<= number <100:
+        return "Double-Digit Number"
+    elif 100<= number <1000:
+        return "Three-Digit Number"
+    elif 1000<= number <10000:
+        return "Four-Digit Number"
+    elif 10000<= number <100000:
+        return "FIve-Digit Number"
 
+num = int(input("Enter the Number : "))
+result = check_digit_count(num)
+print(result)
 #Third Set
 #wap to find a sum of all the even number up to 50.
 #wap to write first 20 number and their squared number.
