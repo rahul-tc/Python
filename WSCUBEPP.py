@@ -114,7 +114,7 @@ def check_digit_count(number):
 num = int(input("Enter the Number : "))
 result = check_digit_count(num)
 print(result)
-#Third Set
+
 #wap to find a sum of all the even number up to 50.
 
 #wap to write first 20 number and their squared number.
