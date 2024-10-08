@@ -97,6 +97,7 @@ elif user_input == "u":
 else:
     print("Not Vowel")
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
+
 #Third Set
 #wap to find a sum of all the even number up to 50.
 #wap to write first 20 number and their squared number.
