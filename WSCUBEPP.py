@@ -116,6 +116,14 @@ result = check_digit_count(num)
 print(result)
 
 #wap to find a sum of all the even number up to 50.
+def sum_of_total_num(limit):
+    total = 0
+    for num in range(2, limit + 1, 2):
+        total +=num
+    return total
+num = int(input("Enter the Number: "))
+result = sum_of_total_num(num)
+print(result)
 
 #wap to write first 20 number and their squared number.
 #wap to find sum of first 10 odd numbers using while loop.
