@@ -146,6 +146,7 @@ def odd_numbers(limit):
 num = int(input("Enter the Number: "))
 result = odd_numbers(num)
 print(result)
+
 #wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
 def check_divisible(number):
     if number%8 == 0:
