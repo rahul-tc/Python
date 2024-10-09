@@ -134,6 +134,7 @@ def print_square(limit):
 number = int(input("Enter the number : "))
 result = print_square(number)
 print(result)
+
 #wap to find sum of first 10 odd numbers using while loop.
 def odd_numbers(limit):
     total = 0
