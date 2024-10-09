@@ -160,6 +160,27 @@ result = check_divisible(num)
 print(result)
 
 #wap to create a billing system at supermarket.
+while True:
+    name = input("Enter the Customer Name : ")
+    total = 0
+
+    while True:
+        #print("Enter the Amount and Quantity : ")
+        amount = float(input("Enter Amount : "))
+        Quantity = float(input("Enter the Quantity : "))
+        total += amount*Quantity
+        repeat = input("Do you want to add more items ? Yes/No : ")
+        if repeat == "no" or repeat == "No":
+            break
+    print("-"*40)
+    print("Name :", name)
+    print("Amount to be paid :", total)
+    print("-"*40)
+    print("************Happy Shopping*************")
+
+    repeat1 = input("do you want to go to next customer ? Yes/No :")
+    if repeat1 == 'no' or repeat1 == "No":
+        break
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
 #wap to find the length of the following string.
