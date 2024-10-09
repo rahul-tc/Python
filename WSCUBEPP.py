@@ -158,6 +158,7 @@ def check_divisible(number):
 num = int(input("Enter the number : "))
 result = check_divisible(num)
 print(result)
+
 #wap to create a billing system at supermarket.
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
