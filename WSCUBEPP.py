@@ -135,6 +135,17 @@ number = int(input("Enter the number : "))
 result = print_square(number)
 print(result)
 #wap to find sum of first 10 odd numbers using while loop.
+def odd_numbers(limit):
+    total = 0
+    num = 1
+    while num <= limit:
+        total += num
+        num += 2
+    return total
+
+num = int(input("Enter the Number: "))
+result = odd_numbers(num)
+print(result)
 #wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
 #wap to create a billing system at supermarket.
 #Fourth Set
