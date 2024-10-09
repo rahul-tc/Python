@@ -147,6 +147,16 @@ num = int(input("Enter the Number: "))
 result = odd_numbers(num)
 print(result)
 #wap to check if a number is divisible by 8 and 12, upto 100 Numbers.
+def check_divisible(number):
+    if number%8 == 0:
+        return "Divisble by 8"
+    elif number%12 == 0:
+        return "Divisble by 12"
+    else:
+        return "Not divisble by 8 and 12"
+num = int(input("Enter the number : "))
+result = check_divisible(num)
+print(result)
 #wap to create a billing system at supermarket.
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
