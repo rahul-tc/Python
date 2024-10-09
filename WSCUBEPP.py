@@ -182,6 +182,7 @@ while True:
     repeat1 = input("do you want to go to next customer ? Yes/No :")
     if repeat1 == 'no' or repeat1 == "No":
         break
+        
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
 #wap to find the length of the following string.
