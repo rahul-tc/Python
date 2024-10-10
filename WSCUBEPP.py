@@ -253,4 +253,6 @@ while True:
 #wap to check if a number is prime or not.
 #wap to find a palindrome of integers.
 #wap to create an area calculator.
+#sixth Set
+
 
