@@ -259,4 +259,8 @@ while True:
 #wap to sort string alphabetacilly in python.
 #wap to remove a given character from a string.
 
+#Z = "F.R.I.E.N.D.S."
+#Wap to remove dot(.) from the following string.
+#wap to check the number of occurence of a substring in a string.
+
 
