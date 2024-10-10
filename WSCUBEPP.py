@@ -249,4 +249,8 @@ while True:
 5 10 15 20 25
 """
 #Fifth Set
+#Wap to get Fibonaaci Series up to 10 numbers.
+#wap to check if a number is prime or not.
+#wap to find a palindrome of integers.
+#wap to create an area calculator.
 
