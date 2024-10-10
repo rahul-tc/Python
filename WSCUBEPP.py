@@ -263,4 +263,12 @@ while True:
 #Wap to remove dot(.) from the following string.
 #wap to check the number of occurence of a substring in a string.
 
+#Seventh Set
+#take an i/p from a user as a string then reverse it.
+#wap to check if a string contains only digits.
+#wap to check if a string is palindrome.
+#wap to find number of vowels in a string.
+#wap to check if every word in a string begins with a capital letters.
+
+
 
