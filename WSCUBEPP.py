@@ -256,5 +256,7 @@ while True:
 #sixth Set
 #A = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
 #wap to separate the following string into comma(,) separated values.
+#wap to sort string alphabetacilly in python.
+#wap to remove a given character from a string.
 
 
