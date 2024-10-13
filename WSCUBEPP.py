@@ -305,6 +305,8 @@ while True:
 #wap to find max and min in a set.
 #wap to find common elements in three lists using sets.
 #wap to find difference between two sets.
+#wa python program to remove an item from a set if it is present in the set.
+#wa python program to check if a set is a subset of another set.
 
 
 
