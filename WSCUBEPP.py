@@ -282,6 +282,19 @@ while True:
 #Eight Set
 #convert the following dictionary into JSON format. Student_date = {"Name":"Daniel","Age":13,"Marks":87}
 #Access  the value of age from the given Data. Student_date = {"Name":"Daniel","Age":13,"Marks":87}
+#Pretty Print following JSON Data.Student_date = {"Name":"Daniel","Age":13,"Marks":87}
+#sort the following JSON Key and write them into a file.Student_date = {"Name":"Daniel","Age":13,"Marks":87}
+#Access the Nested Key Marks from the following Nested Data.
+"""
+{"Student":{
+    "Grade":{
+        "Name":"David",
+        "Marks":{
+            "math":87
+        }
+    }
+}}
+"""
 
 
 
