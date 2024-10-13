@@ -270,5 +270,14 @@ while True:
 #wap to find number of vowels in a string.
 #wap to check if every word in a string begins with a capital letters.
 
+#A=["Ross", "Rachel","Monica","Joe"]
+#wap to swap first and forth element.
+#wap to add a new value at second position.
+#wap to delete a value from 3rd position.
+#B=[13,7,12,10]
+#Wap to Multiply all the numbers in the list.
+#wap to get the largest numbers from the list.
+#wap to get the smallest numbers from the list.
+
 
 
