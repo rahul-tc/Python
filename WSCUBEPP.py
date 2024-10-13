@@ -295,6 +295,12 @@ while True:
     }
 }}
 """
+#Ninth Set
+#Wap to sort a dictionary by value.
+#write a python script to print a dictionary where the key are number between 1 and 15 and the values are square of keys.
+#wap to multiply all the items in a dictionary.
+#wa python program to sort a dictionary by key.
+
 
 
 
