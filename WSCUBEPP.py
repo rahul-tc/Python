@@ -280,6 +280,8 @@ while True:
 #wap to get the smallest numbers from the list.
 
 #Eight Set
+#convert the following dictionary into JSON format. Student_date = {"Name":"Daniel","Age":13,"Marks":87}
+#Access  the value of age from the given Data. Student_date = {"Name":"Daniel","Age":13,"Marks":87}
 
 
 
