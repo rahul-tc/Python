@@ -308,6 +308,13 @@ while True:
 #wa python program to remove an item from a set if it is present in the set.
 #wa python program to check if a set is a subset of another set.
 
+#eleventh set
+#waf(function) to find maximum of three number in pyhton.
+#waf to create and print a list , where the value are square of a number between 1 and 30/
+#waf that takes a number as a parameter and check if the number is prime or not.
+#waf to sum all the number in a list.
+#waf to solve the fibonaaci sequence using recursions.
+
 
 
 
