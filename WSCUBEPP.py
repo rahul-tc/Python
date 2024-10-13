@@ -302,6 +302,9 @@ while True:
 #wa python program to sort a dictionary by key.
 
 #tenth Set
+#wap to find max and min in a set.
+#wap to find common elements in three lists using sets.
+#wap to find difference between two sets.
 
 
 
