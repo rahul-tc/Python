@@ -301,6 +301,8 @@ while True:
 #wap to multiply all the items in a dictionary.
 #wa python program to sort a dictionary by key.
 
+#tenth Set
+
 
 
 
