@@ -189,6 +189,9 @@ while True:
 A = "Why Fit in, When you are Born to Stand out !"
 print(len(A)) #OP =44
 #wap to check how many time alphabet o is occuring.
+A = "Why Fit in, When you are Born to Stand out !"
+count_o = A.count('h')
+print(count_o)
 #wap to convert the whole string into lower & upper Case.
 #wap to convert the following string into a title.
 #wap to find the index number of "Fit in".
