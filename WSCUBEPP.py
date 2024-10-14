@@ -199,6 +199,9 @@ convert_l = A.lower()
 print(convert_u)
 print(convert_l)
 #wap to convert the following string into a title.
+A = "why fit in, when you are born to stand out !"
+convert_c = A.title()
+print(convert_c)
 #wap to find the index number of "Fit in".
 #Patterns
 """
