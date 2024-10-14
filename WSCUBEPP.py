@@ -203,6 +203,9 @@ A = "why fit in, when you are born to stand out !"
 convert_c = A.title()
 print(convert_c)
 #wap to find the index number of "Fit in".
+A = "why fit in, when you are born to stand out !"
+find_i = A.index("fit in")
+print(find_i)
 #Patterns
 """
 1
