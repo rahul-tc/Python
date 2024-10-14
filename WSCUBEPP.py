@@ -314,7 +314,3 @@ while True:
 #waf that takes a number as a parameter and check if the number is prime or not.
 #waf to sum all the number in a list.
 #waf to solve the fibonaaci sequence using recursions.
-
-
-
-
