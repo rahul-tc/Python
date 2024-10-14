@@ -193,6 +193,11 @@ A = "Why Fit in, When you are Born to Stand out !"
 count_o = A.count('h')
 print(count_o)
 #wap to convert the whole string into lower & upper Case.
+A = "Why Fit in, When You are Born to Stand Out !"
+convert_u = A.upper()
+convert_l = A.lower()
+print(convert_u)
+print(convert_l)
 #wap to convert the following string into a title.
 #wap to find the index number of "Fit in".
 #Patterns
