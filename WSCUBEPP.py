@@ -186,6 +186,8 @@ while True:
 #Fourth Set
 # A = "Why Fit in, When you are Born to Stand out !"
 #wap to find the length of the following string.
+A = "Why Fit in, When you are Born to Stand out !"
+print(len(A)) #OP =44
 #wap to check how many time alphabet o is occuring.
 #wap to convert the whole string into lower & upper Case.
 #wap to convert the following string into a title.
