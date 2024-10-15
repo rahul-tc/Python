@@ -238,6 +238,12 @@ for i in range(1, pattern+1):
 44
 5
 """
+pattern = int(input("Enter the Number : "))
+for i in range(pattern,0,-1):
+    for j in range(i):
+        print(i,end="")
+
+    print()
 """
 *****
 ****
