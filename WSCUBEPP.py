@@ -226,6 +226,11 @@ for i in range(1, pattern+1):
 4444
 55555
 """
+pattern = int(input("Enter the Number : "))
+for i in range(1, pattern+1):
+    for j in range(i):
+        print(i,end=" ")
+    print()
 """
 11111
 2222
