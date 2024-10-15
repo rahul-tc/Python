@@ -214,6 +214,11 @@ print(find_i)
 1234
 12345
 """
+pattern = int(input("Enter the Number : "))
+for i in range(1, pattern+1):
+    for j in range(1,i+1):
+        print(j,end=" ")
+    print()
 """
 1
 22
