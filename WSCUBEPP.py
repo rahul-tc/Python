@@ -263,6 +263,13 @@ for i in range(pattern,0,-1):
  ***
 ****
 """
+pattern = int(input("Enter the Number: "))
+for i in range(1, pattern+1):
+    for j in range(pattern-i): #leading spaces
+        print(" ", end="")
+    for k in range(i):  #print astericks
+        print("*",end="")
+    print()
 """
 1
 21
