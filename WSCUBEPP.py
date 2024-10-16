@@ -299,6 +299,7 @@ for i in range(1, pattern + 1):
 4 8 12 16
 5 10 15 20 25
 """
+
 #Fifth Set
 #Wap to get Fibonaaci Series up to 10 numbers.
 #wap to check if a number is prime or not.
