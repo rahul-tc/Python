@@ -251,6 +251,12 @@ for i in range(pattern,0,-1):
 **
 *
 """
+pattern = int(input("Enter the Number : "))
+for i in range(pattern,0,-1):
+    for j in range(i):
+        print("*",end="")
+
+    print()
 """
    *
   **
