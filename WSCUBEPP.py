@@ -316,7 +316,9 @@ for i in range(1, n+1):
         multiples.append(i*j)
 
     print(multiples)
+    
 #Fifth Set
+
 #Wap to get Fibonaaci Series up to 10 numbers.
 #wap to check if a number is prime or not.
 #wap to find a palindrome of integers.
