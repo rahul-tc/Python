@@ -308,6 +308,14 @@ for k in range(rows-1,0,-1):
 4 8 12 16
 5 10 15 20 25
 """
+n = int(input("Enter the Number : "))
+for i in range(1, n+1):
+    multiples = []
+
+    for j in range(1,i+1):
+        multiples.append(i*j)
+
+    print(multiples)
 
 #Fifth Set
 #Wap to get Fibonaaci Series up to 10 numbers.
