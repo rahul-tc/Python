@@ -323,6 +323,7 @@ for i in range(1, n+1):
 #wap to check if a number is prime or not.
 #wap to find a palindrome of integers.
 #wap to create an area calculator.
+
 #sixth Set
 #A = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
 #wap to separate the following string into comma(,) separated values.
