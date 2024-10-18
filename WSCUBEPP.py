@@ -336,6 +336,21 @@ if n%2==0:
 else:
     print("Its a Prime Number.")
 #wap to find a palindrome of integers.
+def isPalindrome(n):
+    str_num = str(n)
+
+    reversed_str_num = str_num[::-1]
+    
+    if str_num == reversed_str_num:
+        return True
+    else:
+        return False
+
+n = int(input("Enter the Number : "))
+if isPalindrome(n):
+    print(f"{n} is a Palindrome. ")
+else:
+    print(f"{n} is not a Palindrome .")
 #wap to create an area calculator.
 
 #sixth Set
