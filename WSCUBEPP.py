@@ -318,7 +318,6 @@ for i in range(1, n+1):
     print(multiples)
     
 #Fifth Set
-
 #Wap to get Fibonaaci Series up to 10 numbers.
 def fibonacci_series(n):
     a,b=0,1
