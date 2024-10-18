@@ -320,6 +320,14 @@ for i in range(1, n+1):
 #Fifth Set
 
 #Wap to get Fibonaaci Series up to 10 numbers.
+def fibonacci_series(n):
+    a,b=0,1
+    for i in range(n):
+        print(a, end=" ")
+        a,b = b,a+b
+
+n = int(input("Enter an Number : "))
+fibonacci_series(n) 
 #wap to check if a number is prime or not.
 #wap to find a palindrome of integers.
 #wap to create an area calculator.
