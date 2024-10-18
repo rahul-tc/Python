@@ -329,6 +329,12 @@ def fibonacci_series(n):
 n = int(input("Enter an Number : "))
 fibonacci_series(n) 
 #wap to check if a number is prime or not.
+n=int(input("Enter the Number : "))
+
+if n%2==0:
+    print("its Not a Prime Number")
+else:
+    print("Its a Prime Number.")
 #wap to find a palindrome of integers.
 #wap to create an area calculator.
 
