@@ -401,6 +401,7 @@ if __name__ =="__main__":
 input_string = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
 output_string = input_string.replace(".",",")
 print(output_string)
+
 #wap to sort string alphabetacilly in python.
 #wap to remove a given character from a string.
 
