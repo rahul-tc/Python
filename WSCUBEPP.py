@@ -396,6 +396,9 @@ if __name__ =="__main__":
 #sixth Set
 #A = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
 #wap to separate the following string into comma(,) separated values.
+input_string = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
+output_string = input_string.replace(".",",")
+print(output_string)
 #wap to sort string alphabetacilly in python.
 #wap to remove a given character from a string.
 
