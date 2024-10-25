@@ -350,6 +350,7 @@ if isPalindrome(n):
     print(f"{n} is a Palindrome. ")
 else:
     print(f"{n} is not a Palindrome .")
+    
 #wap to create an area calculator.
 def area_rectangle(length, width):
     return length*width
