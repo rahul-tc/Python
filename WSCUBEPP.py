@@ -351,6 +351,46 @@ if isPalindrome(n):
 else:
     print(f"{n} is not a Palindrome .")
 #wap to create an area calculator.
+def area_rectangle(length, width):
+    return length*width
+def area_triangle(base,height):
+    return 0.5*base*height
+def area_circle(radius):
+    import math
+    return math.pi*radius**2
+def area_square(side):
+    return side*side
+
+def main():
+    print("Area Calculator")
+    print("1. Rectangle")
+    print("2. Triangle")
+    print("3. Circle")
+    print("4. Square")
+
+    choice = input("Choose a action to be performed (1/2/3/4): ")
+
+    if choice == '1':
+        length = float(input("Enter the Length of the rectangle: "))
+        width = float(input("Enter the width of the rectangle: "))
+        print("The area of the rectangle is: ", area_rectangle(length,width))
+
+    if choice == '2':
+        base = float(input("Enter the base of the triangle: "))
+        height = float(input("Enter the height of the triangle: "))
+        print("The area of the triangle is : ",area_triangle(base,height))
+
+    if choice == '3':
+        radius = float(input("Enter the radius of the circle : "))
+        print("The area of the circle is: ", area_circle(radius))
+    
+    if choice == '4':
+        side = float(input("Enter the side of the square : "))
+        print("The area of the square is : ", area_square(side))
+        
+        
+if __name__ =="__main__":
+    main()
 
 #sixth Set
 #A = "OOTD.YOLO.ASAP.BRB.GTG.OTW"
