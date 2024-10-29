@@ -421,6 +421,7 @@ for char in input_string:
 print("Modified string : ", output_string)
 
 #Z = "F.R.I.E.N.D.S."
+#Wap to remove dot(.) from the following string.
 z = "F.R.I.E.N.D.S."
 
 output_string = " "
@@ -429,7 +430,6 @@ for char in z:
     if char != ".":
         output_string +=char
 print("Modified String : ", output_string)
-#Wap to remove dot(.) from the following string.
 #wap to check the number of occurence of a substring in a string.
 
 #Seventh Set
