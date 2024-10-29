@@ -403,6 +403,11 @@ output_string = input_string.replace(".",",")
 print(output_string)
 
 #wap to sort string alphabetacilly in python.
+input_string = str(input("Enter the string you want to : "))
+char_list = list(input_string)
+sorted_list = sorted(char_list)
+output_string = ''.join(sorted_list)
+print(output_string)
 #wap to remove a given character from a string.
 
 #Z = "F.R.I.E.N.D.S."
