@@ -430,6 +430,7 @@ for char in z:
     if char != ".":
         output_string +=char
 print("Modified String : ", output_string)
+
 #wap to check the number of occurence of a substring in a string.
 
 #Seventh Set
