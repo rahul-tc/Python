@@ -409,6 +409,16 @@ sorted_list = sorted(char_list)
 output_string = ''.join(sorted_list)
 print(output_string)
 #wap to remove a given character from a string.
+input_string = input("Enter the String you want to modifty: ")
+input_remove = input("Enter the Character you want to remove : ")
+
+output_string = " "
+
+for char in input_string:
+    if char != input_remove:
+        output_string += char
+
+print("Modified string : ", output_string)
 
 #Z = "F.R.I.E.N.D.S."
 #Wap to remove dot(.) from the following string.
