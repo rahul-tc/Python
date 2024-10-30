@@ -1,3 +1,4 @@
+
 #Wap to display a Person name, age and address in 3 different lines.
 Name = input("Enter the name: ")
 Age = int(input("Enter the age: "))
