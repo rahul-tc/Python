@@ -40,6 +40,7 @@ if user_input > 0:
     print("Positive")
 else:
     print("Negative")
+    
 #wap to check whether a number is odd or even.
 user_input = int(input("Enter the number : "))
 if user_input%2 == 0:
