@@ -47,6 +47,7 @@ if user_input%2 == 0:
     print("Even")
 else:
     print("Odd")
+    
 #wap to create area calculator.
 def area_rectangle(length, width):
     return length*width
