@@ -103,6 +103,7 @@ elif user_input == "u":
     print("Vowel")
 else:
     print("Not Vowel")
+    
 #wap to check if a number is a single digit number,2 digit number & so on upto 5 digits.
 def check_digit_count(number):
     if number < 0:
