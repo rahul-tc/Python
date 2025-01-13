@@ -192,6 +192,7 @@ while True:
         break
         
 #Fourth Set
+
 # A = "Why Fit in, When you are Born to Stand out !"
 #wap to find the length of the following string.
 A = "Why Fit in, When you are Born to Stand out !"
