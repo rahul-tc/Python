@@ -197,6 +197,7 @@ while True:
 #wap to find the length of the following string.
 A = "Why Fit in, When you are Born to Stand out !"
 print(len(A)) #OP =44
+
 #wap to check how many time alphabet o is occuring.
 A = "Why Fit in, When you are Born to Stand out !"
 count_o = A.count('h')
