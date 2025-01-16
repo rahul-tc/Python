@@ -16,6 +16,7 @@ Varb = temp
 
 print(Vara) 
 print(Varb)
+
 #wap to convert a float into integer.
 Num = float(input("Enter the number : "))
 print(int(Num))
