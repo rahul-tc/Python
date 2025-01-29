@@ -34,6 +34,7 @@ user_input = input("Enter an integer: ")
 integer_value = int(user_input)
 float_value = float(integer_value)
 print("The float value is:", float_value)
+
 #wap to check if a number is Positive.
 user_input = int(input("Enter a Number : "))
 if user_input > 0:
