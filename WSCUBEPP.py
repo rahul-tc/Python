@@ -28,7 +28,6 @@ Roll = input("Enter the Roll : ")
 print(Name)
 print(Batch)
 print(Roll)
-
 #wap to take an user i/p as integer then convert it into Float.
 user_input = input("Enter an integer: ")
 integer_value = int(user_input)
