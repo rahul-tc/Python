@@ -89,7 +89,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+
+
 #wap to check whether the passed letter is vowel or not.
 user_input = input("Enter the Alphabet : ")
 if user_input == "a":
