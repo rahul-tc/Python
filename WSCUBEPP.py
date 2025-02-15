@@ -6,7 +6,6 @@ print(Name)
 print(Age)
 print(Address)
 
-
 #wap to swap two variables.
 Vara = "Tejeswee"
 Varb = "roushan"
