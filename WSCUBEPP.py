@@ -9,7 +9,6 @@ print(Address)
 #wap to swap two variables.
 Vara = "Tejeswee"
 Varb = "roushan"
-
 temp = Vara
 Vara = Varb
 Varb = temp
