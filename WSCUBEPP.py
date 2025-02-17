@@ -13,7 +13,6 @@ Varb = "roushan"
 temp = Vara
 Vara = Varb
 Varb = temp
-
 print(Vara) 
 print(Varb)
 
