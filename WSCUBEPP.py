@@ -19,7 +19,6 @@ print(Varb)
 #wap to convert a float into integer.
 Num = float(input("Enter the number : "))
 print(int(Num))
-
 #wap to take details from a student for ID-Card and then print it in different Lines.
 Name = input("Enter the Name : ")
 Batch = input("Enter the Batch : ")
