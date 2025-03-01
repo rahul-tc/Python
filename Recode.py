@@ -1,3 +1,4 @@
+
 #Wap to display a person name age address
 Name = input("Enter the name : ")
 Age = int(input("Enter the age: "))
