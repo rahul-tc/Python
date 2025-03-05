@@ -20,3 +20,5 @@ Unconfirmed Rides = CALCULATE(COUNTROWS(RidersTable),RidersTable[Confirmed]="No"
 
 
 ZScore = (RidersTable[Confirmation Time]-RELATED(OriginAreaTable[Average Confirmation Time]))/RELATED(OriginAreaTable[SD])
+ZScorebins
+ZScore Category = IF(RidersTable[ZScore]>2,"Outliers","Normal")
