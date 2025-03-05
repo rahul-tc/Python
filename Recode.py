@@ -17,3 +17,6 @@ Overall ANCT = CALCULATE(AVERAGE(RidersTable[Confirmation Time]),ALL(RidersTable
 Total Rides = DISTINCTCOUNT(RidersTable[Ride ID])
 UnConfirmed Ride% = DIVIDE(CALCULATE(COUNTROWS(RidersTable),RidersTable[Confirmed]="No"),[Total Rides])
 Unconfirmed Rides = CALCULATE(COUNTROWS(RidersTable),RidersTable[Confirmed]="No")
+
+
+ZScore = (RidersTable[Confirmation Time]-RELATED(OriginAreaTable[Average Confirmation Time]))/RELATED(OriginAreaTable[SD])
