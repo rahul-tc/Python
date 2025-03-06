@@ -27,3 +27,7 @@ ZScore Category = IF(RidersTable[ZScore]>2,"Outliers","Normal")
 
 #########################AR-15############################
 collab = https://colab.research.google.com/drive/1AHo8JK17NfGHeEyjqLlwxkqK2FKAz99z?usp=sharing
+
+Correct - cumulative_reason_percentage = round(sorted_reasons1.cumsum()/sorted_reasons1.sum()*100,2)
+cumulative_reason_percentage
+#made the above changes and then  play will be able to solve the error.
