@@ -7,6 +7,7 @@ print(Age)
 print(Address)
 
 ########################################################
+
 ABT = CALCULATE(AVERAGE(RidersTable[Confirmation Time]),RidersTable[Confirmed]="Yes")
 ANCT = CALCULATE(AVERAGE(RidersTable[Confirmation Time]),RidersTable[Confirmed]="no")
 Avg Confirmation Time = AVERAGE(RidersTable[Confirmation Time])
