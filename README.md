@@ -1,2 +1,3 @@
-# WS-Cube
+# Python
+
 ...
