@@ -13,3 +13,7 @@ Address = input("Enter the address: ")
 print(Name)
 print(Age)
 print(Address)
+
+#Wap to convert a float into integer.
+Num = float(input("Enter a Number : "))
+print(int(Num))
