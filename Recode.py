@@ -25,3 +25,4 @@ Batch = input("Enter the Batch: ")
 print(Name)
 print(Roll)
 print(Batch)
+.
