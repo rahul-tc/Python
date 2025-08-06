@@ -25,7 +25,8 @@ Batch = input("Enter the Batch: ")
 print(Name)
 print(Roll)
 print(Batch)
-.
+
+
 #wap to take an user i/p as integer then convert it into Float.
 user_input = input("Enter the number : ")
 integer_value = int(user_input)
