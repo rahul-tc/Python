@@ -31,4 +31,3 @@ user_input = input("Enter the number : ")
 integer_value = int(user_input)
 float_value = float(integer_value)
 print("The float Value is ",float_value)
-.
