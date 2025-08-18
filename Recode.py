@@ -38,4 +38,3 @@ if user_input >0:
     print("Positive")
 else:
     print("negative")
-.
