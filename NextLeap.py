@@ -9,4 +9,9 @@ class Solution:
 	def printTwoLines(self):
 		print("Hello there!")
 		print("Let's start")
-.
+		
+#3 - String to Boolean
+class Solution:
+	def stringToBoolean(self, str: str) -> bool:
+		return str.lower() == "true"
+
