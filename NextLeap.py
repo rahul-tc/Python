@@ -16,5 +16,9 @@ class Solution:
 		return str.lower() == "true"
 
 #4 - Integer to string
+class Solution:
+    def intToString(self, num: int) -> str:
+        # Convert integer to string using str() function
+        return str(num)
 
 
