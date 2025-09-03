@@ -15,3 +15,6 @@ class Solution:
 	def stringToBoolean(self, str: str) -> bool:
 		return str.lower() == "true"
 
+#4 - Integer to string
+
+
