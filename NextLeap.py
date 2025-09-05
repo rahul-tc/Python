@@ -28,5 +28,9 @@ class Solution:
         return a + b
 
 #6 - Multiplying Numbers
+class Solution:
+    def multiplyTwoNumbers(self, a: int, b: int) -> int:
+        # Your code goes here
+        return a * b
 
 
