@@ -27,4 +27,6 @@ class Solution:
         # Your code goes here
         return a + b
 
+#6 - Multiplying Numbers
+
 
