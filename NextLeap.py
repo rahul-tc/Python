@@ -34,4 +34,9 @@ class Solution:
         return a * b
 
 #7 - Calculate area of Circle
+import math
+
+class Solution:
+	def calculateCircleArea(self, r: float) -> float:
+        return math.pi * r * r
 
