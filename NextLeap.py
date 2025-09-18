@@ -41,3 +41,9 @@ class Solution:
         return math.pi * r * r
 	
 #8 - Checking Value Inequality
+class Solution:
+	def checkNotEqual(self, a: int, b: int) -> bool:
+	    if a != b:
+	        return true
+	    else:
+	        return false
