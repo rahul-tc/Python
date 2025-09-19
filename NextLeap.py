@@ -49,3 +49,10 @@ class Solution:
 	        return false
 
 #9 - Checking Value Equality
+class Solution:
+    def checkSameValue(self, a: int, b: int) -> bool:
+        # Your code goes here
+        if a == b:
+            return True
+        else:  
+            return False
