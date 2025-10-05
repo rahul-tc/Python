@@ -4,7 +4,7 @@ Age = int(input("Enter the age: "))
 Address = input("Enter the address: ")
 print(Name)
 print(Age)
-print(Address).
+print(Address)
 
 #Wap to display a Person name, age and address in 3 different lines.
 Name = input("Enter the name: ")
