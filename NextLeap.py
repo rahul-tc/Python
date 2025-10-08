@@ -56,3 +56,12 @@ class Solution:
             return True
         else:  
             return False
+
+#10 - Checking Less Than
+class Solution:
+    def checkLessThan(self, a: int, b: int) -> bool:
+        # Your code goes here
+        if a < b:
+            return True
+        else:
+            return False
